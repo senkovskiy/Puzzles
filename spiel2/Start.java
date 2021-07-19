@@ -4,7 +4,6 @@ import team19.main.gui_Startfenster;
 /**
  * Class Start launches the game 2
  * 
- * @author Klavdiia Senkovskaia 7344798
  */
   
 public class Start{

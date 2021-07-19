@@ -36,7 +36,6 @@ import java.util.ArrayList;
  * 7) the window size: S, M, L
  * 8) the rules of game 
  * 
- * @author Klavdiia Senkovskaia 7344798
  */
 
 public class Vorauswahl_Spielfenster extends JPanel implements ActionListener {

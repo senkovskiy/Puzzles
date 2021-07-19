@@ -41,7 +41,6 @@ import team19.highscore.HighscoreFenster;
 	 * Spielfeld is displayed on the left side of the screen.
 	 * Spielfeld displays the game cycle and contains the logic of the game.
 	 * 
-	 * @author Klavdiia Senkovskaia 7344798
 	 */
     
 public class Spielfeld extends JPanel {

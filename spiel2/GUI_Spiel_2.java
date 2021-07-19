@@ -35,8 +35,6 @@ import team19.main.gui_Startfenster;
  * GUI_Spiel_2 is the JFrame of the game 2.
  * GUI_Spiel_2 creates two JPanels of the game - Spielfeld and the Vorauswahl_Spielfenster. 
  * GUI_Spiel_2 sets the size of the JPanels and changes the size of the plates of steins (squaresz) accordingly.
- * 
- * @author Klavdiia Senkovskaia
  *
  */
 public class GUI_Spiel_2 extends JFrame{  	 

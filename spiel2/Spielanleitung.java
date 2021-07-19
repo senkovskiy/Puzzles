@@ -16,8 +16,6 @@ import team19.spiel_3.Spiel_3_Test;
  * Spielanleitung JPanel (containts JFrame) is created when the user clicks on the button Spielanleitung.
  * Here are the rules of the game and the selected parameters from VorauswahlPanel (Vorauswahl_Spielfenster).
  * 
- * @author Klavdiia Senkovskaia 7344798
- * 
  */
 
 public class Spielanleitung extends JPanel implements WindowListener {
