@@ -1,8 +1,10 @@
 # Puzzles
 
-The goal is to fill the maximum amount of outlines (German: Umrisse) by falling differently shaped pieces -- tetris stones (German: Steine), or "polyomino". These stones are generated randomaly and have defined dimentions (k\*k). Each outline is the combination of two stones, having a polyform shape. There are also parking spots (German: Parkplatz), where it is possible to store ("park") the stones if there is no time to put it into the outline or the stone in the outline is occupied. 
+The goal is to fill the maximum number of contours (German: Umrisse) by falling pieces of different shapes -- Tetris stones (German: Steine), or "polyomino". TThese stones are randomly generated and have certain sizes (k\*k). 
 
-With a user interface the player can choose the number of falling pieces, their dimension (k), speed of the game, the number of outlines and parking plases, colors, and acceleration (yes or now). Using the mouse, the player can select one of the falling stones, manipulate it (rotate, reflect) and place it on the outline or parking spot, which are also selected with the mouse or keyboard. As soon as at least one falling stone touches the lower edge of the playing field, the game is over. Detailed rules of the game can be found in the game instruction (Spielanleitung).
+Each contour is a combination of two polyform stones. There are also parking spaces (German: Parkplatz),where stones can be stored ("parked") if there is no time to put them in the contour or a stone in the contour is occupied.
+
+With a user interface the player can choose the number of falling pieces, their size (k), speed of the game, the number of contours and parking spaces, colours, and acceleration (yes or now).With the mouse, the player can select one of the falling stones, manipulate it (rotate, reflect) and place it on the contour or parking space, which are also selected using the mouse or keyboard. As soon as at least one falling stone touches the bottom edge of the playing field, the game is over. Detailed rules of the game can be found in the instructions for the game (Spielanleitung).
 
 Authors: my wife Klavdiia and me :)
 
